@@ -3,9 +3,7 @@ I was lucky enough to see the Warriors go to five straight NBA Finals and win th
 
 ![Stephen Curry](https://raw.githubusercontent.com/byrdzac30/Personal-DataSet-Project/main/Rookie%20Curry.webp)
 
-![2015 Finals](https://raw.githubusercontent.com/byrdzac30/Personal-DataSet-Project/main/2015%203-Point.png)
-
-
-
 To start off, I pulled the raw data from all games Stephen Curry played in from 2009-2018. I was surprised to see that when Curry was in the game for 30-40 minutes the score between GSW and the opponent was relatively close. Statistically, Curry has kept the games extremely close in his career but he dealt ankle issues in the early years of his career and did not truly break out as a player until the 2012-2013 season. His most noteable game of that season was a big one where Curry scored 54 points on 11-13 shooting from the 3-point line.
+
+![2015 Finals](https://raw.githubusercontent.com/byrdzac30/Personal-DataSet-Project/main/2015%203-Point.png)
 
