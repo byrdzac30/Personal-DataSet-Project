@@ -21,6 +21,7 @@ To start off, I pulled the raw data from all games Stephen Curry played in from 
 
 
 
+**Impact of the 3-Point Shot**
 
 ![2015 Finals](https://raw.githubusercontent.com/byrdzac30/Personal-DataSet-Project/main/2015%203-Point.png)
 
