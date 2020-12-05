@@ -2,6 +2,7 @@
 
 I was lucky enough to see the Warriors go to five straight NBA Finals and win three of them. 
 For my personal dataset project I decided to pull statistics on Stephen Curry from October 29, 2009 to October 29, 2018, along with other statistics from Curry's teammates during the same years. These statistics will be used to show his impact for the Golden State Warriors during their championship runs. 
+![Stephen Curry](https://raw.githubusercontent.com/byrdzac30/Personal-DataSet-Project/main/Rookie%20Curry.webp)
 
 
 To start off, I pulled the raw data from all games Stephen Curry played in from 2009-2018. 
