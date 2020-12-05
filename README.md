@@ -1,7 +1,7 @@
 # Personal-DataSet-Project
 Introduction:
 
-I was lucky enough to see the Warriors go to five straight NBA Finals and win three of them. For my personal dataset project I decided to pull statistics on Stephen Curry from October 29, 2009 to October 29, 2018, along with other statistics from Curry's teammates during the same years. These statistics will be used to show his impact for the Golden State Warriors during their championship runs. Shooting from beyond the 3-point line has been a staple of Curry's game. He has helped influence an entire generation of basketball players and has had a major impact on the shift to modern basketball we are now seeing in the NBA. 
+I have been lucky enough to see the Warriors go to five straight NBA Finals, and win three of them. For my personal dataset project I decided to pull statistics on Stephen Curry from October 29, 2009 to October 29, 2018, along with other statistics from Curry's teammates during the same years. These statistics will be used to show his impact for the Golden State Warriors during their championship runs. Shooting from beyond the 3-point line has been a staple of Curry's game, and has helped influence an entire generation of basketball players. The increased popularity in 3-point shooting has led to modernized play of basketball that we now see in the NBA. 
 
 ![GSW Score](https://raw.githubusercontent.com/byrdzac30/Personal-DataSet-Project/main/Raw%20Score%20GSW.png)
 ![Opponent Score](https://raw.githubusercontent.com/byrdzac30/Personal-DataSet-Project/main/Raw%20Score%20Opponent.png)
