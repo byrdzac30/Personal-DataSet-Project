@@ -8,3 +8,4 @@ To start off, I pulled the raw data from all games Stephen Curry played in from 
 
 ![2015 Finals](https://raw.githubusercontent.com/byrdzac30/Personal-DataSet-Project/main/2015%203-Point.png)
 
+If you'll notice from the figure above pulled from Game 5 of the 2015 NBA Finals, the team that shoots better from beyond ends up winning the game. Also, the team that shot more 3-pointers in the game lost every game except for one. In games 4 and 5, the Warriors dominated behind the 3-point line, shooting over 40% in both the matchups. It is not a coincidence, each year 3-pointers are becoming more important to the game and teams are adjusting their personnel to compete.
