@@ -37,5 +37,7 @@ If you'll notice from the figure above pulled from Game 5 of the 2015 NBA Finals
 
 
 **Data References**
+
 https://data.world/datatouille/stephen-curry-stats
+
 https://www.espn.com/nba/team/stats/_/name/gs/season/2016
