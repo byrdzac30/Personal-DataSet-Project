@@ -37,8 +37,7 @@ Above I added figures focused on the 2014-2018 NBA seasons in which the Warriors
 
 **Conclusion**
 
-H
-
+Overall, I was a bit disappointed in the findings through my project since originally I expected Curry to have astounding number. As I mentioned above there were other player statistics I could have factored in to my report, as well as tons of other data that has been pulled and published by professional sports analysts. 
 
 **Data References**
 
