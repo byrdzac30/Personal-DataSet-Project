@@ -22,13 +22,13 @@ To start off, I pulled the raw data from all games Stephen Curry played in from 
 ![2014-2018 Opponent Score](https://raw.githubusercontent.com/byrdzac30/Personal-DataSet-Project/main/2014-2018%20Opponent%20Score.png)
 
 
-Above I added figures focused on the 2014-2018 NBA seasons in which the Warriors reached the Finals. Surprisingly, even during the Warriors championship runs Curry was not impactful for the game being one-sided. This can be seen as a good and bad player statistic. On one hand, you know when Curry is playing 35 minutes the game will be close towards the end and can mold the gameplan accordingly. But, it can be strenuous on players to constistently have close games that will tire them out for future games on their schedule. Some things I did not factor in to my report is that I wanted to are:
+Above I added figures focused on the 2014-2018 NBA seasons in which the Warriors reached the Finals. Surprisingly, even during the Warriors championship runs Curry was not impactful for the game being one-sided. This can be seen as a good and bad player statistic. On one hand, you know when Curry is playing 35 minutes the game will be close towards the end and can mold the gameplan accordingly. But, it can be strenuous on players to constistently have close games that will tire them out for future games on their schedule. Some things I did not factor in to my report that I wanted to are:
 
 - During the final few minutes of games did Curry have any different impact than shown on the figures above.
 
 - How Curry's nummbers change with certain teammates on the court with him, for example Klay Thompson, Draymond Green, Andrew Bogut, etc.
 
-- 
+- Curry's fourth quarter performances in the playoffs compared to the final quarter of regular season games.
 
 
 **Conclusion**
