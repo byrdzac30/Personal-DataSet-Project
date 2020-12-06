@@ -22,18 +22,18 @@ To start off, I pulled the raw data from all games Stephen Curry played in from 
 ![2014-2018 Opponent Score](https://raw.githubusercontent.com/byrdzac30/Personal-DataSet-Project/main/2014-2018%20Opponent%20Score.png)
 
 
-Analysis
+Above I added figures focused on the 2014-2018 NBA seasons in which the Warriors reached the Finals. Surprisingly, even during the Warriors championship runs Curry was not impactful for the game being one-sided. This can be seen as a good and bad player statistic. On one hand, you know when Curry is playing 35 minutes the game will be close towards the end and can mold the gameplan accordingly. But, it can be strenuous on players to constistently have close games that will tire them out for future games on their schedule. Some things I did not factor in to my report is that I wanted to are:
 
+- During the final few minutes of games did Curry have any different impact than shown on the figures above.
 
-**Impact of the 3-Point Shot**
+- How Curry's nummbers change with certain teammates on the court with him, for example Klay Thompson, Draymond Green, Andrew Bogut, etc.
 
-![2015 Finals](https://raw.githubusercontent.com/byrdzac30/Personal-DataSet-Project/main/2015%203-Point.png)
-
-If you'll notice from the figure above pulled from Game 5 of the 2015 NBA Finals, the team that shoots better from beyond ends up winning the game. Also, the team that shot more 3-pointers in the game lost every game except for one. In games 4 and 5, the Warriors dominated behind the 3-point line, shooting over 40% in both the matchups. It is not a coincidence, each year 3-pointers are becoming more important to the game and teams are adjusting their personnel to compete.
+- 
 
 
 **Conclusion**
 
+H
 
 
 **Data References**
