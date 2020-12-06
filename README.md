@@ -30,7 +30,7 @@ Above I added figures focused on the 2014-2018 NBA seasons in which the Warriors
 
 - During the final few minutes of games did Curry have any different impact than shown on the figures above.
 
-- How Curry's nummbers change with certain teammates on the court with him, for example Klay Thompson, Draymond Green, Andrew Bogut, etc.
+- How Curry's numbers change with certain teammates on the court with him, for example Klay Thompson, Draymond Green, Andrew Bogut, etc.
 
 - Curry's fourth quarter performances in the playoffs compared to the final quarter of regular season games.
 
