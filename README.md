@@ -7,8 +7,8 @@ The Golden State Warriors have been a dominate team in the NBA for the better pa
 
 
 
-**Data From 2009-2018**
 
+**Data From 2009-2018**
 ![GSW Score](https://raw.githubusercontent.com/byrdzac30/Personal-DataSet-Project/main/Raw%20Score%20GSW.png)
 ![Opponent Score](https://raw.githubusercontent.com/byrdzac30/Personal-DataSet-Project/main/Raw%20Score%20Opponent.png)
 
@@ -18,8 +18,8 @@ To start off, I pulled the raw data from all games Stephen Curry played in from 
 
 
 
-**Data From 2014-2018**
 
+**Data From 2014-2018**
 ![2014-2018 GSW Score](https://raw.githubusercontent.com/byrdzac30/Personal-DataSet-Project/main/2014-2018%20GSW%20Score.png)
 ![2014-2018 Opponent Score](https://raw.githubusercontent.com/byrdzac30/Personal-DataSet-Project/main/2014-2018%20Opponent%20Score.png)
 
