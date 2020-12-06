@@ -6,6 +6,7 @@ The Golden State Warriors have been a dominate team in the NBA for the better pa
 
 
 
+
 **Data From 2009-2018**
 
 ![GSW Score](https://raw.githubusercontent.com/byrdzac30/Personal-DataSet-Project/main/Raw%20Score%20GSW.png)
@@ -13,6 +14,7 @@ The Golden State Warriors have been a dominate team in the NBA for the better pa
 
 
 To start off, I pulled the raw data from all games Stephen Curry played in from 2009-2018, the figures above represent the amount of minutes Curry was in the game compared to the final score of the opponent and Golden State. I was surprised to see that when Curry was in the game for 30-40 minutes the score between GSW and the opponent was relatively close. Statistically, Curry has kept the games extremely close in his career but he dealt ankle issues in the early years of his career and did not truly break out as a player until the 2012-2013 season. His most noteable game of that season was a big one where Curry scored 54 points on 11-13 shooting from the 3-point line. From looking at the data, there seems to be a correlation between the Warriors scoring 115 points or more, and Curry playing about 28 minutes in the game. Even during the games Curry plays the full 48 minutes the scores seem to constistently be the same for both teams. To further examine I decided to narrow the data into only the 2014-2018 seasons. 
+
 
 
 
