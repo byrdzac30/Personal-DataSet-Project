@@ -2,7 +2,7 @@
 **Introduction**
 
 
-The Golden State Warriors have been a dominate team in the NBA for the better part of this decade. They reached the NBA Finals five years in a row, from 2015 to 2019. For my personal dataset project I decided to pull statistics on Stephen Curry from October 29, 2009 to October 29, 2018, along with other statistics from Curry's teammates and opponents during the same years. These statistics will be used to show his impact for the Golden State Warriors during their championship runs. Shooting from beyond the 3-point line has been a staple of Curry's game, and has helped influence an entire generation of basketball players. The increased popularity in 3-point shooting has led to modernized play of basketball that we now see in the NBA. 
+The Golden State Warriors have been a dominate team in the NBA for the better part of the decade. They reached the NBA Finals five years in a row, from 2015 to 2019. For my personal dataset project I decided to pull statistics on Stephen Curry from October 29, 2009 to October 29, 2018, along with other statistics from Curry's teammates and opponents during the same years. These statistics will be used to show his impact for the Golden State Warriors during their championship runs. Shooting from beyond the 3-point line has been a staple of Curry's game, and has helped influence an entire generation of basketball players. The increased popularity in 3-point shooting has led to modernized play of basketball that we now see in the NBA. 
 
 
 
